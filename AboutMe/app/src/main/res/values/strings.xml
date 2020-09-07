@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="textview">Daniel Peczek</string>
+    <string name="bio">
+        Hi! My name is Daniel Pęczek.
+        \n\n
+        I\'m a software developer in a TomTom. I graduated master degree\n
+        in the field of the Computer Science. In my daily work I\'m working mainly in C++,\n
+        but other technologies can\'t be a mystery to me.\n
+        In my free time I\'m working mostly on ML and AI\n
+        problems, but sometimes like now I\'m investigating new technologies.
+        \n\n
+        Apart of working on software engineering problems I\'m enjoying my time reading books\n
+        (fantasy, science fiction, but also historical and classical ones)\n
+        Also I\'m playing computer games a lot (especially RPG and complicated one\'s\n
+        like Dwarf Fortress, KSP or Factorio).
+        Also I\'ve started working again on painting Warhammer 40000 minatures.
+    </string>
+</resources>
