@@ -16,4 +16,6 @@
         like Dwarf Fortress, KSP or Factorio).
         Also I\'ve started working again on painting Warhammer 40000 minatures.
     </string>
+    <string name="hint_edit_text">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
